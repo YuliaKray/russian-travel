@@ -1,0 +1,38 @@
+.footer{
+    margin: 0 48px 24px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer__links{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 18px;
+}
+
+.footer__link{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.12;
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer__link:hover{
+    opacity: 0.8;
+    transition: opacity 2s ease; 
+}
+
+
+.footer__copyright{
+    margin: 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.14;
+}
