@@ -1,27 +1,27 @@
-.header{
-    max-width: 1184px;
-    padding: 28px 48px 56px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-end;
+.header {
+  max-width: 1184px;
+  padding: 28px 48px 56px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
 }
 
 @media screen and (max-width: 1100px) {
-    .header{
-        padding-bottom: 48px;
-    }
+  .header {
+    padding-bottom: 48px;
+  }
 }
 
 @media screen and (max-width: 900px) {
-    .header{
-        padding-left: 24px;
-        padding-right: 24px;
-    }
+  .header {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
 }
 
 @media screen and (max-width: 685px) {
-    .header{
-        padding: 16px 16px 48px;
-    }
+  .header {
+    padding: 16px 16px 48px;
+  }
 }

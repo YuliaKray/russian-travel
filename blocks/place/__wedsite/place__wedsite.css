@@ -1,13 +1,13 @@
-.place__wedsite{
-    max-width: 456px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    gap: 12px;
+.place__wedsite {
+  max-width: 456px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 12px;
 }
 
 @media screen and (max-width: 685px) {
-    .place__wedsite{
-        padding: 0 16px;
-    }
+  .place__wedsite {
+    padding: 0 16px;
+  }
 }

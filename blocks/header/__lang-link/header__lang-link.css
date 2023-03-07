@@ -1,6 +1,6 @@
 .header__lang-link{
     padding-bottom: 6px;
-    color: #FFFFFF;
+    color: #FFF;
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -19,5 +19,4 @@
         font-size: 18px;
         line-height: 1.11;
     }
-    
 }
